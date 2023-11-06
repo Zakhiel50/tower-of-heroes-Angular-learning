@@ -47,7 +47,7 @@
   
   .heroes button.selected {
     background-color: black;
-    color: white;
+    color: #405061;
   }
   
   .heroes button.selected:hover {
